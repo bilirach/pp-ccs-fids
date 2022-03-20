@@ -14,4 +14,4 @@ eureka:
     registerWithEureka: true
     fetchRegistry: true
     serviceUrl:
-      defaultZone: http://fids-0.fids.default.svc.cluster.local:8761/eureka
+      defaultZone: http://fids-0.fids.fidsbackend.svc.cluster.local:8761/eureka
